@@ -5,7 +5,7 @@
 - 🌱 高效撮合引擎,每秒5百万次撮合,持续稳定的撮合性能,行情延时5ms内.
 - 💞️ 支持限价,市价,止盈止损,预设止盈止损.完整的后台管理,丰富的代理商功能.
 - 📫 移动端原生开发,性能高,体验好.多语言,多时区支持.抗域名被黑被墙.
-- ![image](https://user-images.githubusercontent.com/108943823/178020583-acaf1c07-5d0c-4e96-a7ef-0157c08d2a10.png) 合作联系instinct.exchange.service@gmail.com
+- ![image](https://user-images.githubusercontent.com/108943823/178020583-acaf1c07-5d0c-4e96-a7ef-0157c08d2a10.png) 联系[telegram](https://t.me/instinct_chat) [email]( instinct.exchange.service@gmail.com)
 
 
 <!---
