@@ -4,7 +4,7 @@
 - 👀 支持多种双因素认证,综合应用非对称加密,数据指纹,冷热钱包分离等安全措施,经专业机构安全认证.
 - 🌱 支持限价,市价,止盈止损,计划订单,逐仓,全仓...后台管理功能完备,代理商功能丰富.
 - 💞️ 移动端原生语言开发,性能高,体验好.多语言,多时区支持.抗域名被黑被墙.
-- 📫 高效撮合引擎,每秒5百万次撮合,持续稳定的撮合性能,行情延时5ms内.
+- 📫 高效撮合引擎,每秒5百万次撮合,持续稳定的性能,行情延时5ms内.
 - ![image](https://user-images.githubusercontent.com/108943823/178020583-acaf1c07-5d0c-4e96-a7ef-0157c08d2a10.png) 联系[telegram](https://t.me/instinct_chat)     
 email: instinct.exchange.service@gmail.com
 
