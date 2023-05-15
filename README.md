@@ -8,7 +8,8 @@
 - ![image](https://user-images.githubusercontent.com/108943823/178020583-acaf1c07-5d0c-4e96-a7ef-0157c08d2a10.png) 联系[telegram](https://t.me/instinct_chat)     
 email: instinct.exchange.service@gmail.com
 
-
+安卓版下载试用
+![image](https://github.com/instinct-exchange/instinct-exchange/blob/main/appdownload.png?raw=true)
 <!---
 instinct-exchange/instinct-exchange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
