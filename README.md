@@ -7,7 +7,7 @@
 - 📫 高效撮合引擎,每秒5百万次撮合,持续稳定的性能,行情延时5ms内.
 - ![image](https://user-images.githubusercontent.com/108943823/178020583-acaf1c07-5d0c-4e96-a7ef-0157c08d2a10.png) 联系[telegram](https://t.me/instinct_chat)     
 email: instinct.exchange.service@gmail.com
-
+---
 安卓版下载试用
 ![image](https://github.com/instinct-exchange/instinct-exchange/blob/main/appdownload.png?raw=true)
 <!---
